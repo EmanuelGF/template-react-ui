@@ -1,4 +1,53 @@
-# Getting Started with Create React App
+# Template startup for react website
+
+This is a quickstart project template to use in most react projects.  
+
+## Added 
+Folder structure
+React context
+Routing
+reseted css
+aditional meta tags
+basic cookie consent
+Layout ready
+
+## Modules
+axios
+react-router-dom
+react-lazy-load-images
+react-markdown
+react-cookie-consent
+
+### Folder Structure 
+Folders are on src directory:
+Components
+  |--ComponentA
+    |--componenta.js
+    |--componenta.css
+Context
+  |--ctx.js
+Helpers
+  |--helpers.js
+Images
+  |--img1.jpg
+  |--img2.jpg
+Layouts
+  |--Layout1
+    |--Layout1.js
+  |--Layout1
+    |--Layout1.js
+
+### React context
+Used to pass data common to all componentes.
+  ex: change the theme, language translation. 
+
+### Other things
+You can use react-lazy-load-image-component to lazy load images and add effects.
+cookie consent ready with react-cookie-consent. 
+It does not have a css framework configured because there are many to choose from and the choice may vary a lot from your project requirements. 
+
+
+***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
