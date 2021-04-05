@@ -3,39 +3,39 @@
 This is a quickstart project template to use in most react projects.  
 
 ## Added 
-Folder structure
-React context
-Routing
-reseted css
-aditional meta tags
-basic cookie consent
-Layout ready
+* Folder structure
+* React context
+* Routing
+* reseted css
+* aditional meta tags
+* basic cookie consent
+* Layout ready
 
 ## Modules
-axios
-react-router-dom
-react-lazy-load-images
-react-markdown
-react-cookie-consent
+* axios
+* react-router-dom
+* react-lazy-load-images
+* react-markdown
+* sreact-cookie-consent
 
 ### Folder Structure 
 Folders are on src directory:
-Components
-  |--ComponentA
-    |--componenta.js
-    |--componenta.css
-Context
-  |--ctx.js
-Helpers
-  |--helpers.js
-Images
-  |--img1.jpg
-  |--img2.jpg
-Layouts
-  |--Layout1
-    |--Layout1.js
-  |--Layout1
-    |--Layout1.js
+_Components
+  +--ComponentA
+    +--componenta.js
+    +--componenta.css
+_Context
+  +--ctx.js
+_Helpers
+  +--helpers.js
+_Images
+  +--img1.jpg
+  +--img2.jpg
+_Layouts
+  +--Layout1
+    +--Layout1.js
+  +--Layout1
+    +--Layout1.js
 
 ### React context
 Used to pass data common to all componentes.
