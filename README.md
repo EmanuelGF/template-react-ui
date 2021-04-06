@@ -20,22 +20,22 @@ This is a quickstart project template to use in most react projects.
 
 ### Folder Structure 
 Folders are on src directory:
-|_Components
-|  +--ComponentA
-|    +--componenta.js
-|    +--componenta.css
-|_Context
-|  +--ctx.js
-|_Helpers
-|  +--helpers.js
-|_Images
-|  +--img1.jpg
-|  +--img2.jpg
-|_Layouts
-|  +--Layout1
-|    +--Layout1.js
-|  +--Layout1
-|    +--Layout1.js
+|_Components\
+|  +--ComponentA\
+|    +--componenta.js\
+|    +--componenta.css\
+|_Context\
+|  +--ctx.js\
+|_Helpers\
+|  +--helpers.js\
+|_Images\
+|  +--img1.jpg\
+|  +--img2.jpg\
+|_Layouts\
+|  +--Layout1\
+|    +--Layout1.js\
+|  +--Layout1\
+|    +--Layout1.js\
 
 ### React context
 Used to pass data common to all componentes.
