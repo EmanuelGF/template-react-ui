@@ -1,6 +1,7 @@
 # Template startup for react website
 
 This is a quickstart project template to use in most react projects.  
+Use it for all your needs. 
 
 ## Added 
 * Folder structure
@@ -10,6 +11,7 @@ This is a quickstart project template to use in most react projects.
 * aditional meta tags
 * basic cookie consent
 * Layout ready
+* react-bootstrap 
 
 ## Modules
 * axios
@@ -17,25 +19,26 @@ This is a quickstart project template to use in most react projects.
 * react-lazy-load-images
 * react-markdown
 * react-cookie-consent
+* react-bootstrap bootstrap
 
 ### Folder Structure 
 Folders are on src directory:
-|_Components\
-|  +--ComponentA\
-|    +--componenta.js\
-|    +--componenta.css\
+ _Components\
+| |--ComponentA\
+|    |--componenta.js\
+|    |--componenta.css\
 |_Context\
-|  +--ctx.js\
+|  |--ctx.js\
 |_Helpers\
-|  +--helpers.js\
+|  |--helpers.js\
 |_Images\
-|  +--img1.jpg\
-|  +--img2.jpg\
+|  |--img1.jpg\
+|  |--img2.jpg\
 |_Layouts\
-|  +--Layout1\
-|    +--Layout1.js\
-|  +--Layout1\
-|    +--Layout1.js\
+|  |--Layout1\
+|     |--Layout1.js\
+|  |--Layout1\
+|     |--Layout1.js\
 
 ### React context
 Used to pass data common to all componentes.
@@ -44,8 +47,11 @@ Used to pass data common to all componentes.
 ### Other things
 You can use react-lazy-load-image-component to lazy load images and add effects.
 cookie consent ready with react-cookie-consent. 
-It does not have a css framework configured because there are many to choose from and the choice may vary a lot from your project requirements. 
 
+## Using this template
+1. Clone to your local machine
+1. npm install the dependencies `<npm install >`
+1. run the project `<npm start>`
 
 ***
 
