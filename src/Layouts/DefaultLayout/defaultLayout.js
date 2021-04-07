@@ -8,13 +8,13 @@ import {Fragment} from 'react'
 
 //Componentes
 import Footer from '../../Components/Footer/footer'
-import Nav from '../../Components/Nav/nav'
+import NavMenu from '../../Components/NavMenu/navMenu'
 
 export default function DefaultLayout({children}) {
 
     return (
         <Fragment>
-            <Nav />
+            <NavMenu />
                 {children}
             <Footer />
         </Fragment>

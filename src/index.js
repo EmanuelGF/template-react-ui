@@ -4,7 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 //importing css for react-bootstrap components
-import "../node_modules/bootstrap/dist/css/bootstrap.css"
+import '../node_modules/bootstrap/dist/css/bootstrap.css'
+//importing css for fontawesome-free
+import '../node_modules/@fortawesome/fontawesome-free/css/all.css'
 
 ReactDOM.render(
   <React.StrictMode>

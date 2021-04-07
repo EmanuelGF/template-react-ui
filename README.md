@@ -12,6 +12,7 @@ Use it for all your needs.
 * basic cookie consent
 * Layout ready
 * react-bootstrap 
+* Icons with fontawesome-free
 
 ## Modules
 * axios
@@ -20,25 +21,26 @@ Use it for all your needs.
 * react-markdown
 * react-cookie-consent
 * react-bootstrap bootstrap
+* @fortawesome/fontawesome-free
 
 ### Folder Structure 
 Folders are on src directory:
  _Components\
-| |--ComponentA\
-|    |--componenta.js\
-|    |--componenta.css\
+|$~$|--ComponentA\
+|$~~$|--componenta.js\
+|$~~$|--componenta.css\
 |_Context\
-|  |--ctx.js\
+|$~~$|--ctx.js\
 |_Helpers\
-|  |--helpers.js\
+|$~~$|--helpers.js\
 |_Images\
-|  |--img1.jpg\
-|  |--img2.jpg\
+|$~~$|--img1.jpg\
+|$~~$|--img2.jpg\
 |_Layouts\
-|  |--Layout1\
-|     |--Layout1.js\
-|  |--Layout1\
-|     |--Layout1.js\
+|$~$|--Layout1\
+|$~~~$|--Layout1.js\
+|$~$|--Layout2\
+|$~~~$|--Layout2.js\
 
 ### React context
 Used to pass data common to all componentes.

@@ -1,16 +1,26 @@
 import React from 'react'
+import {
+    Col,
+    Container,
+    Row
+} from 'react-bootstrap'
+import {
+    Link
+} from 'react-router-dom'
 
 export default function About() {
    
     return (
-        <div style={{
-            padding:"50px",
-            textAlign: "center"
-        }}>
-            <p>Welcome to the about page...</p>
-            <hr />
-            <a href="/">Return to home</a>
-            <hr />
-        </div>
+        <Container fluid>
+            <Row>
+                <Col style={{textAlign:"center"}}>
+                    <h1>Welcome to the about page!</h1>
+                    <p style={{backgroundColor:"#ccc"}}>
+                        This page is using a different layout thats why you dont see the nav and footer. 
+                    </p>
+                    <Link to="/" ><i className="fas fa-arrow-left"></i>{" "}home</Link>
+                </Col>
+            </Row>
+        </Container>
     )
 }
