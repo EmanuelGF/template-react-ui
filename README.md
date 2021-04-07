@@ -25,22 +25,22 @@ Use it for all your needs.
 
 ### Folder Structure 
 Folders are on src directory:
- _Components\
-| $~$ |--ComponentA\
-| $~~$ |--componenta.js\
-| $~~$ |--componenta.css\
-|_Context\
-| $~~$ |--ctx.js\
-|_Helpers\
-| $~~$ |--helpers.js\
-|_Images\
-| $~~$ |--img1.jpg\
-| $~~$ |--img2.jpg\
-|_Layouts\
-| $~$ |--Layout1\
-| $~~~$ |--Layout1.js\
-| $~$ |--Layout2\
-| $~~~$ |--Layout2.js\
+_Components\
+&nbsp;|--ComponentA\
+&nbsp;&nbsp;|--componenta.js\
+&nbsp;&nbsp;|--componenta.css\
+_Context\
+&nbsp;|--ctx.js\
+_Helpers\
+&nbsp;|--helpers.js\
+_Images\
+&nbsp;|--img1.jpg\
+&nbsp;|--img2.jpg\
+_Layouts\
+&nbsp;|--Layout1\
+&nbsp;&nbsp;|--Layout1.js\
+&nbsp;|--Layout2\
+&nbsp;&nbsp;|--Layout2.js\
 
 ### React context
 Used to pass data common to all componentes.
