@@ -7,6 +7,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "lodash": "^4.17.21",
+    "node-sass": "^5.0.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.5.2",
     "react-cookie-consent": "^6.2.3",
