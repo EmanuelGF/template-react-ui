@@ -5,7 +5,7 @@ import { isEmpty } from 'lodash'
 export const CtxContext = React.createContext()
 
 export function CtxProvider(props) {
-    const api_url = "https://jsonplaceholder.typicode.com" 
+    const api_url = process.env.REACT_APP_API_ADDRESS 
     const [data, setData] = useState({})
 
     useEffect(() => {
