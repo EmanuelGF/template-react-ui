@@ -1,19 +1,19 @@
 # Template startup for react website
 
 This is a quickstart project template to use in most react projects.  
-Use it for all your needs. 
+It´s intended to provide a simple quickstart configuration on top of create-react-app so to get you over the common project setup.
+Use it for all your needs. Feel free to improve this project.   
 
 ## Added 
 * Folder structure
 * React context
 * Routing
 * reseted css
-* aditional meta tags
 * basic cookie consent
 * Layout ready
 * react-bootstrap 
 * Icons with fontawesome-free
-* sass
+* sass ready
 
 ## Modules
 * axios

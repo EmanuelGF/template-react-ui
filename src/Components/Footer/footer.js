@@ -7,8 +7,10 @@ export default function Footer() {
             textAlign:"center",
             width:"100%",
             height:"150px",
-            backgroundColor:"#888"
+            backgroundColor:"#888",
+            padding: "12px"
         }}>
+            ©yourBizz {new Date().toLocaleDateString()}
         </div>
     )
 }

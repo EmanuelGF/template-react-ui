@@ -13,7 +13,7 @@ export function CtxProvider(props) {
         .then(response => {
             setData(response.data)
         })
-    },[api_url]) 
+    },[api_url])
 
     return (
         <> {!isEmpty(data) && 
