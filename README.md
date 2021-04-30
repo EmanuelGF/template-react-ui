@@ -27,6 +27,7 @@
 
 ### Folder Structure 
 Folder structure on src directory:
+
 _Components\
 &nbsp;|--ComponentA\
 &nbsp;&nbsp;&nbsp;|--componenta.js\
@@ -55,10 +56,9 @@ ex: change the theme, language translation.
 
 ## Using this template
 1. Fork it!
-2. Clone to your local machine
+2. Clone your fork to your local machine.
 3. npm install the dependencies `<npm install >`
-4. run the project `<npm start>`
-
+4. Run the project `<npm start>`
 ***
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
