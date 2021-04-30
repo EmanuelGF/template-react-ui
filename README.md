@@ -2,7 +2,7 @@
 
 > This is a quickstart project template to use in most react projects.  
 > It´s intended to provide a simple quickstart configuration on top of create-react-app so to get you over the common project setup.
-> Use it for all your needs. Feel free to improve this project.   
+> Use it for all your needs. Feel free to improve this project. (Reach out to me if you need further explanation on the project structure.)   
 
 ## Added 
 * Folder structure
@@ -51,6 +51,7 @@ ex: change the theme, language translation.
 ### Some other things to keep in mind:
 - You can use react-lazy-load-image-component to lazy load images and add effects.
 - Cookie consent ready with react-cookie-consent. 
+- The project is fetching dummy data from [jsonplaceholder.typicode](https://jsonplaceholder.typicode.com)
 
 ## Using this template
 1. Fork it!
