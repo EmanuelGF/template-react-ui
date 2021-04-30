@@ -4,7 +4,15 @@
 > It´s intended to provide a simple quickstart configuration on top of create-react-app so to get you over the common project setup.
 > Use it for all your needs. Feel free to improve this project. (Reach out to me if you need further explanation on the project structure.)   
 
-## Added 
+## Preview
+
+![preview about](https://api.emanuel-dev.com/uploads/preview1_f9acc559b6.png)
+===============================
+![preview home](https://api.emanuel-dev.com/uploads/preview2_3c7c791124.png)
+
+
+
+## Added features:
 * Folder structure
 * React context
 * Routing
@@ -15,7 +23,7 @@
 * Icons with fontawesome-free
 * sass ready
 
-## Modules
+## Modules:
 * axios
 * react-router-dom
 * react-lazy-load-images
