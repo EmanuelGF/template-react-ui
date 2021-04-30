@@ -1,8 +1,8 @@
 # Template startup for react website
 
-This is a quickstart project template to use in most react projects.  
-It´s intended to provide a simple quickstart configuration on top of create-react-app so to get you over the common project setup.
-Use it for all your needs. Feel free to improve this project.   
+> This is a quickstart project template to use in most react projects.  
+> It´s intended to provide a simple quickstart configuration on top of create-react-app so to get you over the common project setup.
+> Use it for all your needs. Feel free to improve this project.   
 
 ## Added 
 * Folder structure
@@ -45,21 +45,22 @@ _Layouts\
 &nbsp;&nbsp;&nbsp;|--Layout2.js\
 
 ### React context
-Used to pass data common to all componentes.
-  ex: change the theme, language translation. 
+- Used to pass data common to all componentes.
+ex: change the theme, language translation. 
 
-### Other things
-You can use react-lazy-load-image-component to lazy load images and add effects.
-cookie consent ready with react-cookie-consent. 
+### Some other things to keep in mind:
+- You can use react-lazy-load-image-component to lazy load images and add effects.
+- Cookie consent ready with react-cookie-consent. 
 
 ## Using this template
-1. Clone to your local machine
-1. npm install the dependencies `<npm install >`
-1. run the project `<npm start>`
+1. Fork it!
+2. Clone to your local machine
+3. npm install the dependencies `<npm install >`
+4. run the project `<npm start>`
 
 ***
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
