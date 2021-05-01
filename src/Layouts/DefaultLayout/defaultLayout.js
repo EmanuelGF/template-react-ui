@@ -1,6 +1,6 @@
 /**
  * Default Layout
- * 
+ * This will be the main Layout. (Implemented on the Home page).
  */
 
 import React from 'react'
