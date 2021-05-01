@@ -36,22 +36,26 @@
 ### Folder Structure 
 Folder structure on src directory:
 
-_Components\
-&nbsp;|--ComponentA\
-&nbsp;&nbsp;&nbsp;|--componenta.js\
-&nbsp;&nbsp;&nbsp;|--componenta.css\
-_Context\
-&nbsp;|--ctx.js\
-_Helpers\
-&nbsp;|--helpers.js\
-_Images\
-&nbsp;|--img1.jpg\
-&nbsp;|--img2.jpg\
-_Layouts\
-&nbsp;|--Layout1\
-&nbsp;&nbsp;&nbsp;|--Layout1.js\
-&nbsp;|--Layout2\
-&nbsp;&nbsp;&nbsp;|--Layout2.js\
+```
+.
++-- _Components
+|   +-- _ComponentA
+|       +-- _componenta.js
+|       +-- _componenta.css
++-- _Context
+|   +--ctx.js
++-- _Helpers
+|   +--helpers.js
++-- _Images
+|   +--img1.jpg
+|   +--img2.jpg
++-- _Layouts
+|   +-- _Layout1
+|       +-- _Layout1.js
+|   +-- _Layout2
+|       +-- _Layout2.js
+
+```
 
 ### React context
 - Used to pass data common to all componentes.
