@@ -22,6 +22,7 @@
 * react-bootstrap 
 * Icons with fontawesome-free
 * sass ready
+* Standard "404 - page not found" for broken or dead link.
 
 ## Modules:
 * axios
