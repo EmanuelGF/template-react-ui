@@ -12,7 +12,7 @@ import {AppRoute} from './Helpers/helpers.js'
 import DefaultLayout from './Layouts/DefaultLayout/defaultLayout'
 import PagesLayout from './Layouts/PagesLayout/PagesLayout'
 //Components
-import NotFound from './Components/NotFoud/notFound'
+import NotFound from './Components/NotFound/notFound'
 import About from './Components/About/about'
 import Header from './Components/Header/header'
 
