@@ -10,8 +10,6 @@
 ===============================
 ![preview home](https://api.emanuel-dev.com/uploads/preview2_3c7c791124.png)
 
-
-
 ## Added features:
 * Folder structure
 * React context
