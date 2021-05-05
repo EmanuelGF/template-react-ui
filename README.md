@@ -2,15 +2,13 @@
 
 > Lots of common website project features added on top of create-react-app to save you time.
 > It´s intended to provide a simple quickstart configuration on top of create-react-app so to get you over the common project setup that is normally implemented on most projects.
-> Use it for all your needs. Make some contributions, We are biigginer friendly ✌👍 (Do Reach out to me if you need further explanation on the project structure.) 
+> Use it for all your needs. Make some contributions, We are beginner friendly ✌👍 (Do Reach out to me if you need further explanation on the project structure.) 
 
 ## Preview
 
 ![preview about](https://api.emanuel-dev.com/uploads/preview1_f9acc559b6.png)
 ===============================
 ![preview home](https://api.emanuel-dev.com/uploads/preview2_3c7c791124.png)
-
-
 
 ## Added features:
 * Folder structure
