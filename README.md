@@ -23,6 +23,7 @@
 * Icons with fontawesome-free
 * sass ready
 * Standard "404 - page not found" for broken or dead link.
+* End to end testing with [Cypress.io](https://www.cypress.io/) 
 
 ## Modules:
 * axios
@@ -33,6 +34,7 @@
 * react-bootstrap bootstrap
 * @fortawesome/fontawesome-free
 * node-sass
+* cypress
 
 ### Folder Structure 
 Folder structure on src directory:
