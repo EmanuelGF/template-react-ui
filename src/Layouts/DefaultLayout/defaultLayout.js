@@ -3,21 +3,20 @@
  * This will be the main Layout. (Implemented on the Home page).
  */
 
-import React from 'react'
-import {Fragment} from 'react'
+import React from "react";
 
-//Componentes
-import Footer from '../../Components/Footer/footer'
-import NavMenu from '../../Components/NavMenu/navMenu'
+//Components
+import Footer from "../../Components/Footer/footer";
+import NavMenu from "../../Components/NavMenu/navMenu";
 
-export default function DefaultLayout({children}) {
+import "./defaultLayout.scss";
 
-    return (
-        <Fragment>
-            <NavMenu />
-                {children}
-            <Footer />
-        </Fragment>
-    )
+export default function DefaultLayout({ children }) {
+	return (
+		<div className="main_layout">
+			<NavMenu />
+			{children}
+			<Footer />
+		</div>
+	);
 }
-

@@ -41,13 +41,12 @@ Folder structure on root directory:
 .
 +-- _cypress
 |   +-- _integration
-|       +-- _essential
-|           +-- url_test_spec.js
+|       +-- sometest.spec.js
 +-- _src
 |   +-- _Components
 |       +-- _ComponentA
 |           +-- componenta.js
-|           +-- componenta.css
+|           +-- componenta.scss
 |   +-- _Context
 |       +-- ctx.js
 |   +-- _Helpers
@@ -60,6 +59,10 @@ Folder structure on root directory:
 |           +-- Layout1.js
 |       +-- _Layout2
 |           +-- Layout2.js
++-- _pages
+|   +-- _SomePage
+|       +-- SomePage.js
+|       +-- SomePage.scss
 
 ```
 
