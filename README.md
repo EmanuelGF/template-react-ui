@@ -35,26 +35,31 @@
 * cypress
 
 ### Folder Structure 
-Folder structure on src directory:
+Folder structure on root directory:
 
 ```
 .
-+-- _Components
-|   +-- _ComponentA
-|       +-- _componenta.js
-|       +-- _componenta.css
-+-- _Context
-|   +--ctx.js
-+-- _Helpers
-|   +--helpers.js
-+-- _Images
-|   +--img1.jpg
-|   +--img2.jpg
-+-- _Layouts
-|   +-- _Layout1
-|       +-- _Layout1.js
-|   +-- _Layout2
-|       +-- _Layout2.js
++-- _cypress
+|   +-- _integration
+|       +-- _essential
+|           +-- url_test_spec.js
++-- _src
+|   +-- _Components
+|       +-- _ComponentA
+|           +-- componenta.js
+|           +-- componenta.css
+|   +-- _Context
+|       +-- ctx.js
+|   +-- _Helpers
+|       +-- helpers.js
+|   +-- _Images
+|       +-- img1.jpg
+|       +-- img2.jpg
+|   +-- _Layouts
+|       +-- _Layout1
+|           +-- Layout1.js
+|       +-- _Layout2
+|           +-- Layout2.js
 
 ```
 
