@@ -2,13 +2,10 @@ import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 //Context
 import { CtxProvider } from "./Context/ctx";
-//Cookie consent
 //Util
 import { AppRoute } from "./Helpers/helpers.js";
-
 //Layouts
 import PagesLayout from "./Layouts/PagesLayout/PagesLayout";
-
 //Pages
 import NotFound from "./pages/NotFound/notFound";
 import About from "./pages/About/about";
