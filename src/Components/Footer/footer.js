@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
 	return (
-		<div
+		<footer
 			style={{
 				width: "100%",
 				height: "100px",
@@ -14,6 +14,6 @@ export default function Footer() {
 			}}
 		>
 			©yourBizz {new Date().toLocaleDateString()}
-		</div>
+		</footer>
 	);
 }
