@@ -112,7 +112,7 @@ Runs the tests which have been written in the cypress folder.\
 Cypress automatically opens an interactive interface in your browser\
 where you can get more details about the test that are currently running.
 
-The tests will automatically run when changes are made to test files
+The tests will rerun when changes are made to test files
 
 ***
 
