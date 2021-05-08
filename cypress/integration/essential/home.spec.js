@@ -7,15 +7,6 @@ describe("Renders the homepage", () => {
 	it("Renders about page when the /about link is clicked", () => {
 		cy.visit("/");
 		cy.get(".nav-link").eq(1).click();
-
 		cy.get("h1").should("contain", "Welcome to the about page!");
-	});
-
-	it("Renders the footer correctly", () => {
-		cy.visit("/");
-		cy.get("footer").should(
-			"contain",
-			`©yourBizz ${new Date().toLocaleDateString()}`
-		);
 	});
 });
