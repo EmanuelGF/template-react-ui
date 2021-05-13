@@ -1,3 +1,8 @@
 {
-    "baseUrl": "http://localhost:3000"
+    "baseUrl": "http://localhost:3000",
+    "env": {
+        "viewports": ["ipad-2", "iphone-6", "macbook-11"],
+        "orientations": ["portrait", "landscape"]
+    }
+    
 }
