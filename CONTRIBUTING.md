@@ -16,7 +16,8 @@ Once we agree on the changes you can then make a pull request.
 You will need to Fork this project then make the changes on your forked repo then create the pull request.  
 
 Additionally here are some more useful content on how to work with git to make contributions:
-[https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-[https://youtu.be/yzeVMecydCE](https://youtu.be/yzeVMecydCE)
 
+- [https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+- [https://youtu.be/yzeVMecydCE](https://youtu.be/yzeVMecydCE)
+- [https://gist.github.com/Chaser324/ce0505fbed06b947d962](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 Let me know if you need any further help. 👍✌
