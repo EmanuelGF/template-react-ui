@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/template-react-ui/static/css/main.d93909c5.chunk.css",
+    "main.js": "/template-react-ui/static/js/main.fbaf0ec3.chunk.js",
+    "main.js.map": "/template-react-ui/static/js/main.fbaf0ec3.chunk.js.map",
+    "runtime-main.js": "/template-react-ui/static/js/runtime-main.edb44da7.js",
+    "runtime-main.js.map": "/template-react-ui/static/js/runtime-main.edb44da7.js.map",
+    "static/css/2.313616fe.chunk.css": "/template-react-ui/static/css/2.313616fe.chunk.css",
+    "static/js/2.7f5e3e83.chunk.js": "/template-react-ui/static/js/2.7f5e3e83.chunk.js",
+    "static/js/2.7f5e3e83.chunk.js.map": "/template-react-ui/static/js/2.7f5e3e83.chunk.js.map",
+    "static/js/3.9ccf7c35.chunk.js": "/template-react-ui/static/js/3.9ccf7c35.chunk.js",
+    "static/js/3.9ccf7c35.chunk.js.map": "/template-react-ui/static/js/3.9ccf7c35.chunk.js.map",
+    "index.html": "/template-react-ui/index.html",
+    "static/css/2.313616fe.chunk.css.map": "/template-react-ui/static/css/2.313616fe.chunk.css.map",
+    "static/css/main.d93909c5.chunk.css.map": "/template-react-ui/static/css/main.d93909c5.chunk.css.map",
+    "static/js/2.7f5e3e83.chunk.js.LICENSE.txt": "/template-react-ui/static/js/2.7f5e3e83.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/template-react-ui/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb44da7.js",
+    "static/css/2.313616fe.chunk.css",
+    "static/js/2.7f5e3e83.chunk.js",
+    "static/css/main.d93909c5.chunk.css",
+    "static/js/main.fbaf0ec3.chunk.js"
+  ]
+}
