@@ -1,3 +1,5 @@
+![Website](https://img.shields.io/website?down_color=gray&down_message=dead&up_color=green&up_message=online&url=https%3A%2F%2Femanuelgf.github.io%2Ftemplate-react-ui%2F%23%2F)
+
 # Quickstart React template for website projects
 
 > Lots of common website project features added on top of create-react-app to save you time.
@@ -9,6 +11,9 @@
 ![preview about](https://api.emanuel-dev.com/uploads/preview1_f9acc559b6.png)
 ===============================
 ![preview home](https://api.emanuel-dev.com/uploads/preview2_3c7c791124.png)
+
+## Deployment
+You can check out the deployed template on this [Link](https://emanuelgf.github.io/template-react-ui) 🚀
 
 ## Added features:
 * Folder structure
