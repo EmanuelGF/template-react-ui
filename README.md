@@ -8,9 +8,9 @@
 
 ## Preview
 
-![preview about](https://api.emanuel-dev.com/uploads/preview1_f9acc559b6.png)
+![preview about](https://api.emanuel-dev.com/uploads/preview2_9936057288.png)
 ===============================
-![preview home](https://api.emanuel-dev.com/uploads/preview2_3c7c791124.png)
+![preview home](https://api.emanuel-dev.com/uploads/preview1_10cb02892b.png)
 
 ## Deployment
 You can check out the deployed template on this [Link](https://emanuelgf.github.io/template-react-ui) 🚀
